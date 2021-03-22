@@ -1,0 +1,6 @@
+print("Manzil\n")
+shahar = input("Shaharingiz?\n")
+tuman = input("Tuman nomi?\n")
+daha = input("Kvartal raqami?\n")
+bino = input("Bino raqami?\n")
+print("Sizning manzil " + shahar + " shahar, " + tuman + " tumani, " + daha + " kvaral " + bino + " bino")
